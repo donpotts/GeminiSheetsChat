@@ -3,7 +3,6 @@
 **Chat with your Google Sheets using natural language powered by Google's Gemini AI!**
 
 [![.NET](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Google Sheets API](https://img.shields.io/badge/Google%20Sheets-API%20v4-green.svg)](https://developers.google.com/sheets/api)
 [![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-1.64.0-purple.svg)](https://learn.microsoft.com/en-us/semantic-kernel/)
 
